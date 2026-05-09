@@ -1,0 +1,25 @@
+{
+  "name": "code-architecture-review",
+  "description": "Audits codebases for clean architecture violations, code smells, SOLID principle breaches, and file structure issues. Produces a prioritized report with Critical / Warning / Suggestion tiers and concrete refactoring moves. Works across Node.js, Python, React, Go, and monorepo projects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Zahra Farjmand",
+    "email": "farjmand.zara6@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "architecture",
+    "code-quality",
+    "code-smells",
+    "clean-architecture",
+    "SOLID",
+    "refactoring",
+    "code-review",
+    "file-structure"
+  ],
+  "homepage": "https://github.com/zahra-farjmand/code-architecture-review",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zahra-farjmand/code-architecture-review"
+  }
+}
