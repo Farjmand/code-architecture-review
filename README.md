@@ -83,7 +83,7 @@ Node.js / Express, Python (FastAPI, Django), React / Next.js (incl. Feature-Slic
 
 ## Contributing
 
-Issues and PRs welcome at [github.com/zahra-farjmand/code-architecture-review](https://github.com/zahra-farjmand/code-architecture-review).
+Issues and PRs welcome at [github.com/Farjmand/code-architecture-review](https://github.com/zahra-farjmand/code-architecture-review).
 
 ## License
 
